@@ -1,0 +1,23 @@
+name: Dummie
+main: me.vergilprime.blankplugin.Main
+version: .1
+
+commands:
+  derp1:
+    description: Vergils a pain in my ass.
+    usage: |
+      /&lt;command&gt; [player]
+      Example: /&lt;command&gt; - see how many times you have burned to death
+      Example: /&lt;command&gt; CaptainIce - see how many times CaptainIce has burned to death
+  derp2:
+    description: Vergils a pain in my ass.
+    usage: |
+      /&lt;command&gt; [player]
+      Example: /&lt;command&gt; - see how many times you have burned to death
+      Example: /&lt;command&gt; CaptainIce - see how many times CaptainIce has burned to death
+  derp3:
+    description: Vergils a pain in my ass.
+    usage: |
+      /&lt;command&gt; [player]
+      Example: /&lt;command&gt; - see how many times you have burned to death
+      Example: /&lt;command&gt; CaptainIce - see how many times CaptainIce has burned to death
